@@ -3,3 +3,6 @@ body {
     color: red;
     font-size: large;
 }
+p:active {
+    cursor: pointer;
+}
